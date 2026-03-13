@@ -1,0 +1,205 @@
+Customer ID 	 Full Name	E-mail	Phone Number	Country 	City	Join Date	Last Purchase	Age 	Spend (USD)	Subscribed?	Segment	Source File	Notes	
+CUST-1001	LIAM BROWN	LIAM.BROWN@EXAMPLE.ORG	443389083863	uk	Liverpool	05/17/2022	08/09/2022	29	N/A	Yes	Priority	web_form.xlsx	called twice	
+CUST-1002	Mary Turner	MARY.TURNER@YAHOO.COM	+1 341 316 4752	America	Atlanta	Jun 11, 2021	Mar 20, 2022	unknown	7052.5	Active	enterprise	web_form.xlsx	left voicemail	
+CUST-1003	Mary Thomas	mary_thomas@yahoo.com	7242388496	CA	MONTREAL	2023-04-02	17/08/2023	25	1805.19	No	Corp	legacy_contacts.csv	requested invoice	
+CUST-1004	Robert Campbell	robertcampbell15@outlook.com	07048 281489	 united kingdom 	Edinburgh	Oct 29, 2025			5787.2	TRUE	vip	crm_export_a.csv	duplicate from legacy file	
+cust 1005	William Taylor	william_taylor@yahoo.com	08346578713	 united kingdom 	glasgow	2025-07-30	2025-09-03	55	6513.11	Yes	Small Business	web_form.xlsx	wants weekend calls	
+CUST-1006	David Baker	david_baker@company.co.uk	440106513338	UK	Cardiff	Mar 26, 2024	Nov 23, 2024	36	6672.5	N	retail	legacy_contacts.csv	called twice	
+CUST-1007	David Green	 david_green@example.org 	4309 805 00	Australia	Melbourne	2023-02-16	2023-02-17	45	USD 2265.25	No	Small Business	march_upload.csv	missing postcode	
+CUST-1008	Isla Taylor	itaylor@outlook.com	04751-079911	UK	Cardiff	03/03/2024	25-Nov-2024	41	7945.98	Active	Enterprise	march_upload.csv	follow up in Q2	
+CUST-1009	Grace Brown	gracebrown27@outlook.com	4016 400 52	AUS	Melbourne	2022-06-26	24/08/2022	27	6314.41	Y	consumer	crm_export_b.csv		
+CUST-1010	Mr Olivia Jones	ojones@example.org	322602563	AUS	melbourne	28-Oct-2024	04/03/2025	63	887.2	FALSE	VIP	web_form.xlsx	missing postcode	
+CUST-1011	Noah Green	noah_green@gmail.com	 5698169340 	America	Dallas	10/11/2022	2024-03-04	22	993.67	Inactive	Retail	web_form.xlsx	duplicate from legacy file	
+CUST-1012	Grace Hall	gracehall73@example.org	440443699577	Gb	LIVERPOOL	2024-02-10	Apr 15, 2024	33	3582.49	Inactive	smb	crm_export_b.csv	VIP prospect	
+CUST-1013	Michael Smith	 msmith@company.co.uk 	00163287083	 united kingdom 	Glasgow	05-Jun-2024	Aug 14, 2025	25	3879.21	N	Small business	legacy_contacts.csv	missing postcode	
+CUST-1014	Mr Laura Roberts	 laura.roberts@outlook.com 	+1-362-316-6587	CA	Ottawa	09/20/2023	05-Aug-2024	36	2344.96	Active	retail	legacy_contacts.csv	"duplicate from legacy file
+check manually"	
+CUST-1015	Sophia Adams	sophia_adams@example.org	00162 720465	U.K.	Bristol	01-Oct-2024	2025-09-13	46		FALSE	vip	crm_export_a.csv	left voicemail	
+CUST-1016	Ms Liam Jones	liam_jones@example.org	+1-529-912-4190	Canada	Vancouver	13/02/2022	04/18/2023	22	$5,287.03	yes	SMB	web_form.xlsx	called twice	
+CUST-1017	Grace Wright	gwright@yahoo.com	04987769453	 united kingdom 	Bristol	26-Jan-2021	05-Apr-2022	47	6,992	TRUE	Priority	web_form.xlsx		
+CUST-1018	Ethan Roberts	ETHAN.ROBERTS@COMPANY.CO.UK	3634957885	U.S.	 Dallas 	27/01/2022	11/03/2022	36	6124.83	Active	enterprise	crm_export_b.csv	check manually	
+CUST-1019	MIA ROBERTS		0842710947	United States	DALLAS	2024-05-07	2024-09-28	27	$7,079.85	yes	 RETAIL 	crm_export_a.csv	duplicate from legacy file	
+CUST-1020	Anna Baker	anna_baker@outlook.com	909.133.4123	CA	ottawa	05/05/2024	06/13/2025	60	1929.96	TRUE	Small Business	legacy_contacts.csv	  	
+CUST-1021	LAURA WILSON	laura_wilson@company.co.uk	648877190	AU	Melbourne	May 27, 2021	2021-06-26	31	(6740.45)	Yes	enterprise	legacy_contacts.csv	duplicate from legacy file	
+CUST-1022	Robert Roberts	robertroberts21@gmail.com	07468071545	UK	Cardiff	Jun 12, 2023	2024-05-02	52	8237.43	Active	consumer	crm_export_a.csv	"requested invoice
+check manually"	
+CUST-1023	Ava Wilson	ava.wilson@yahoo.com	1317 127 48	AU	Perth	09/12/2025	N/A	52	1045.3	No	smb	legacy_contacts.csv	follow up in Q2	
+CUST-1024	Noah Roberts	noahroberts62@example.org	867.533.9636	CA	Montreal	26/01/2025	2025-06-27	58	4935.65	Yes	Corp	crm_export_a.csv		
+CUST-1025	ROBERT SMITH	robert.smith@company.co.uk	865-780-9134	America	Atlanta	2025-11-19	N/A	121		FALSE	Retail	web_form.xlsx	left voicemail	
+CUST-1026	Sophia Wilson	swilson@yahoocom	+44 4740 748217	Gb	sheffield	03/05/2024	17-Feb-2025		1457.31	TRUE	ENT	web_form.xlsx		
+CUST-1027	Grace  Green	gracegreen78@yahoocom	+44 3942 104709	Gb	Cardiff	07/11/2025	N/A	24	7741.58	no	ENT	crm_export_b.csv	duplicate from legacy file	
+CUST-1028	Mia Johnson	mia.johnson@example.org	048.175.4965	canada 	Montreal	06/07/2025	02-Sep-2025	50	8185.15	Y	VIP	crm_export_a.csv	missing postcode	
+CUST-1029	Mia Brown	mbrown@company.co.uk	01796 405377	 united kingdom 	Edinburgh	2024-13-05	21/04/2022	50	3163.03	No	Small Business	march_upload.csv	wants weekend calls	
+CUST-1030	  Mary Walker 	mwalker@yahoo.com	 09042 284210 	U.K.	BIRMINGHAM	not sure		34	597.16	0	consumer	web_form.xlsx	follow up in Q2	
+CUST-1031	Anna  Turner	anna_turner@company.co.uk	+1 771 159 2124	 united states 	Phoenix	2021-03-30	2022-04-06	63	4439.51	Active	vip	legacy_contacts.csv	prefers email	
+CUST-1032	Laura Hall	LAURA_HALL@YAHOO.COM	01161-528098	Gb	GLASGOW	03/28/2023	10/26/2023	67	$821.80	1	Small Business	crm_export_a.csv	requested invoice	
+CUST-1033	AVA WRIGHT	AVAWRIGHT4@EXAMPLE.ORG	04455 022961	 united kingdom 	liverpool	21-Mar-2024	14/07/2024	48	7186.14	no	Enterprise	crm_export_a.csv	 left voicemail 	
+CUST-1034	isla jones	 isla_jones@gmail.com 	978-403-6900	U.S.	boston	 2023-06-27 	30-May-2024	48	4135.84	yes	 RETAIL 	crm_export_a.csv	wants weekend calls	
+cust 1035	Chloe Jones	CHLOE_JONES@OUTLOOK.COM	05297-516136	Gb	 Glasgow 	06/09/2021	2022-08-24		4900.32	TRUE	ENT	crm_export_b.csv	missing postcode	
+CUST-1036	MICHAEL ROBERTS	michael_roberts@example.org	+44 9955 271774	United Kingdom	Cardiff	2021-11-10	12/04/2022	62	654.37	no	Small business	legacy_contacts.csv		
+CUST-1037	Chloe Jones	chloe.jones@gmail.com	+44 2037 788925	Gb	Cardiff	31/02/2024	Dec 01, 2024	121	5148.47	Active	vip	web_form.xlsx		
+CUST-1038	grace wilson	gracewilson49@example.org	+61 8 1685 0542	AU	BRISBANE	09/05/2024	2025-08-28	63	3340.76	yes	VIP	web_form.xlsx	duplicate from legacy file	
+CUST-1039	Isla Wilson	islawilson53@gmail.com	379-473-8347	United States	Austin	29-Nov-2021	01-Mar-2022	65	6557.76	N	 RETAIL 	crm_export_a.csv		
+CUST-1040	  Olivia Baker 	olivia.baker@yahoo.com	+61 3 7506 0685	australia 	Adelaide	10/10/2025	 12/12/2025 	39	726.68	Y	Small business	legacy_contacts.csv	wants weekend calls	
+CUST-1041	PETER SMITH	petersmith@outlook.com	09711 798089	U.K.	birmingham	29-Jan-2024	2025-05-24	67	5181.35	yes	Enterprise	legacy_contacts.csv	follow up in Q2	
+CUST-1042	Mary  Green	 marygreen95@example.org 	5852 772 21	Australia	Brisbane	2025-03-11	03/19/2025	43	6705.59	TRUE	Enterprise	crm_export_b.csv	called twice	
+CUST-1043	Mary  Walker	mary_walker@company.co.uk	+44 8416 169284 ext 2	United Kingdom	Bristol	14-Jun-2023	11-Sep-2024		6321.97	FALSE	consumer	web_form.xlsx	VIP prospect	
+CUST-1044	Mary Taylor	marytaylor@gmail.com	5569092755	United States	 Atlanta 	01/15/2023	 2023-10-04 	64	1372.49	yes	Enterprise	web_form.xlsx		
+CUST-1045	  Ethan Turner 	ethanturner12@company.co.uk	01884422583	United Kingdom	CARDIFF	Aug 08, 2022	29-Jul-2023	52	1713.51	Yes	Retail	web_form.xlsx	VIP prospect	
+CUST-1046	Ethan Adams	eadams@example.org	+1 892 268 0182	U.S.	Atlanta	Aug 14, 2025		5	1078.4	yes	 RETAIL 	crm_export_b.csv		
+CUST-1047	Isla Baker	isla.baker@outlook.com	440109439690	U.K.	Birmingham	27-Apr-2024	2025-08-22	unknown	1323.34	1	enterprise	web_form.xlsx	left voicemail	
+CUST-1048	Chris Walker	 cwalker@outlook.com 	046.963.2595	CA	Montreal	 28-Mar-2023 	02-Jun-2023	44	4,385	TRUE	Retail	crm_export_a.csv	called twice	
+CUST-1049	Isla Adams	ISLA_ADAMS@OUTLOOK.COM	+44 8358 416878	uk	London	02-Oct-2025	11/26/2025	48	$1,151.44	yes	consumer	march_upload.csv		
+CUST-1050	Mary Wilson	mary_wilson@outlook.com	(495) 888-7947	 united states 	 Miami 	2023-11-30	07/20/2024	30	5159.12	yes	retail	crm_export_a.csv	left voicemail	
+CUST-1051	Sarah Campbell	sarah_campbell@yahoo.com	263-689-7028	United States	 Phoenix 	06/05/2025	N/A	45	1268.88	Active	 RETAIL 	march_upload.csv	called twice	
+CUST-1052	Laura Roberts		+1 986 652 4041	usa	seattle	Sep 02, 2022	Oct 01, 2023		5996.08	yes	Small Business	crm_export_b.csv		
+CUST-1053	Noah Thomas	noah_thomas@example.org	(773) 454-0193	usa	New York	2021-07-25	21-Feb-2022	42	6101.78	TRUE	Enterprise	crm_export_a.csv	prefers email	
+CUST-1054	Isla Brown	ibrown@company.co.uk	5274 205 49	AUS	Brisbane	Aug 06, 2022	26-Mar-2023	62	$4,624.90	TRUE	vip	crm_export_a.csv	wants weekend calls	
+CUST-1055	Laura Turner	laura.turner@gmail.com	268.414.5933	canada 	Montreal	Sep 11, 2022	Jul 06, 2023	67	4875.86	Active	Retail	march_upload.csv	follow up in Q2	
+cust 1056	Ethan Wright	 ethan_wright@outlook.com 	443971870728	U.K.	Cardiff	18-Aug-2021	2021-09-18	56		TRUE	SMB	march_upload.csv	VIP prospect	
+CUST-1057	Peter Adams	peter_adams@outlook.com	06618-251286	UK	Sheffield	04-Jan-2022	Feb 01, 2023	29	6,513	0	smb	crm_export_b.csv	missing postcode	
+CUST-1058	Chloe  Brown	chloe.brown[at]example.org	00673 830284	 united kingdom 	Sheffield	06/13/2024	10/07/2025	22	2057.05	TRUE	SMB	march_upload.csv		
+CUST-1059	Chloe Davies	chloe_davies@outlook.com	(462) 873-3427	usa	Atlanta	02/13/2024	2024-10-23	24	N/A	Inactive	Small Business	crm_export_a.csv	wants weekend calls	
+CUST-1060	Grace  Scott	gscott@outlook.com	1739363854	U.S.	Chicago	21-Jan-2022	08-Mar-2023	58	6,161	TRUE	Small business	crm_export_a.csv	requested invoice	
+CUST-1061	Laura Wilson	laura_wilson@example.org	445477725228	UK	Edinburgh	2024-04-11	2025-02-01	67	3558.15	Y	Retail	crm_export_b.csv		
+CUST-1062	  Noah Turner 	NOAH.TURNER@EXAMPLE.ORG	04840 862118	U.K.	cardiff	30-Jul-2024	06-Jul-2025	5	7759.7	TRUE	Retail	crm_export_a.csv		
+CUST-1063	james green	jamesgreen@example.org	 +1 974 014 8902 	America	New York	2024-07-28	Aug 01, 2024	65	1469.19	yes	smb	legacy_contacts.csv	requested invoice	
+CUST-1064	Michael Taylor	MICHAELTAYLOR51@EXAMPLE.ORG	4773586629	America	DENVER	04/20/2021	09/06/2021	48	N/A	Yes	smb	legacy_contacts.csv	left voicemail	
+CUST-1065	  Daniel Brown 	danielbrown12@example.org	440466183982	uk	BIRMINGHAM	02-Jun-2023	01/17/2024		USD 4721.97	Y	consumer	march_upload.csv	requested invoice	
+CUST-1066	Mr Robert Brown	robertbrown18@example.org	+44 3752 654793	 united kingdom 	london	Mar 22, 2023	 Sep 08, 2023 	60	3238.37	N	Small business	web_form.xlsx	missing postcode	
+CUST-1067	Peter Hall	peter_hall@gmail.com	886-805-8911	US	Austin	21-Jul-2024	12/23/2024	36		TRUE	Small Business	march_upload.csv	missing postcode	
+CUST-1068	Ava King	 ava_king@outlook.com 	6112545738	United States	 Seattle 	not sure	 2024-01-09 	46	N/A	Y	Small Business	march_upload.csv	VIP PROSPECT	
+CUST-1069	sarah walker	swalker@gmail.com	660-334-1918	America	Miami	Apr 20, 2022	06/02/2023	46	5358.52	TRUE	smb	legacy_contacts.csv	missing postcode	
+CUST-1070	Grace  Johnson	grace_johnson@yahoo.com	+61 2 9662 7828	AUS	Adelaide	06/23/2021	02-Jun-2022	29	2672.38	yes	consumer	legacy_contacts.csv	requested invoice	
+CUST-1071	Sophia Turner	sophia_turner@company.co.uk	191-485-8078	usa	chicago	2024-03-03	03/18/2024		2493.38	Yes	Small Business	crm_export_b.csv	VIP prospect	
+CUST-1072	william wright	williamwright45@example.org	254.494.8126	CAN	ottawa	07/19/2024	23-Feb-2025	31	(5243.04)	0	Corp	legacy_contacts.csv		
+CUST-1073	Mr Peter Green	petergreen82@company.co.uk	863-637-4545	US	BOSTON	 23-Nov-2024 		44		1	Small Business	crm_export_b.csv	called twice	
+CUST-1074	EMMA DAVIES	emmadavies51@gmail.com	361.103.7129	canada 	Montreal	11-Jul-2021	11-Jun-2022	44	2139.55	Yes	VIP	web_form.xlsx	VIP prospect	
+CUST-1075	Emma Wilson	ewilson@company.co.uk	442697311219	uk	birmingham	2024-08-06	Jul 18, 2025	30	595.47	Active	SMB	web_form.xlsx	"VIP prospect
+check manually"	
+CUST-1076	Isla Campbell	isla_campbell@gmail.com	01805-526965	UK	SHEFFIELD	 2022-08-29 	 25/07/2023 		6665.56	no	 RETAIL 	march_upload.csv	missing postcode	
+CUST-1077	Sophia Green	sophiagreen69@yahoo.com	01463-031617	Gb	EDINBURGH	2024-01-07	2024-11-17	30	2369.31	Active	smb	crm_export_b.csv	follow up in Q2	
+CUST-1078	Chloe Roberts	chloe.roberts@example.org	8507925241	Canada	TORONTO	2025-04-29		22	2857.57	Y	SMB	march_upload.csv	duplicate from legacy file	
+CUST-1079	Ethan Hall	ethan.hall @example.org	 448061744518 	U.K.	Leeds	03/05/2023	Aug 13, 2024	67	2729.65	Inactive	Small Business	crm_export_b.csv		
+CUST-1080	Sophia Smith	ssmith@outlook.com	443670241038	UK	Bristol	Jul 26, 2024	28-Sep-2025	65	7458.03	N	retail	web_form.xlsx	missing postcode	
+CUST-1081	Chris Green	chris.green @gmail.com	+1 756 185 3747	U.S.	Denver	2024-13-05	02/06/2023	5	1997.19	no	Retail	web_form.xlsx	left voicemail	
+cust 1082	Sarah Smith	sarah.smith@gmail.com	 +61 3 2365 1994 	AUS	Perth	2024-02-13	03/02/2025	56		yes	Corp	legacy_contacts.csv	VIP prospect	
+CUST-1083	James Hall	jameshall83@yahoo.com	08701 462638	United Kingdom	Leeds	01/19/2022	08-Jun-2022	38	3799.41	TRUE	Small Business	crm_export_a.csv	left voicemail	
+CUST-1084	Laura Smith	lsmith[at]gmail.com	039652239	Australia	Brisbane	04/30/2021	Jun 18, 2022	51	4507.23	0	Priority	crm_export_b.csv	VIP prospect	
+CUST-1085	Peter Jones	pjones@outlook.com	+44 5002 921851	U.K.	 Leeds 	10/02/2021	06-Nov-2021	51	20.8	N	 RETAIL 	crm_export_b.csv	VIP prospect	
+CUST-1086	SARAH GREEN	sarahgreen24@gmail.com	+44 9391 725135	Gb	Liverpool	09/18/2021	12/17/2021	67	30.26	Yes	SMB	crm_export_a.csv	left voicemail	
+cust 1087	Chloe Hall	CHLOE_HALL@YAHOO.COM	040541152	Australia	 Perth 	Oct 07, 2023	2024-12-31	45	2995.2	1	enterprise	crm_export_a.csv	 left voicemail 	
+CUST-1088	DAVID EVANS	 david_evans@gmail.com 	05061 497310	UK	 Edinburgh 	18-Jan-2025	N/A	5	4597.96	1	retail	web_form.xlsx	called twice	
+CUST-1089	OLIVIA DAVIES	oliviadavies86@gmail.com	06938-068687	Gb	LIVERPOOL	Jun 20, 2023	Feb 13, 2024	37	$1,934.67	1	retail	crm_export_b.csv	called twice	
+CUST-1090	david wilson	DAVID.WILSON@OUTLOOK.COM	08685-487099	 united kingdom 	Manchester	2024-10-31	Jun 10, 2025	33	8476.83	TRUE	Corp	web_form.xlsx	duplicate from legacy file	
+CUST-1091	Mia King	MKING@COMPANY.CO.UK	745-054-4471	U.S.	new york	19-Dec-2021	2022-05-09	twenty nine	1235.59	Active	Small business	march_upload.csv	prefers email	
+CUST-1092	mary campbell	mcampbell@gmail.com	+1-303-070-5345	Canada	toronto	30-Sep-2022	28/09/2023	53	3437.72	FALSE	Small Business	web_form.xlsx	left voicemail	
+CUST-1093	Dr Ethan Taylor	ethan_taylor@yahoo.com	+44 0722 903494	uk	Sheffield	Apr 12, 2021	04-Jul-2021		6631.86	TRUE	 RETAIL 	web_form.xlsx	follow up in Q2	
+CUST-1094	Mia Taylor	mtaylor@yahoo.com	449652074466	uk	 Liverpool 	04/08/2024	17-Jan-2025	38	2230.83	Y	vip	web_form.xlsx		
+CUST-1095	michael roberts	michaelroberts29@outlook.com	(554) 947-1709	America	Dallas	04/12/2025			8,050	0	Small business	crm_export_b.csv	follow up in Q2	
+CUST-1096	Ethan Davies	edavies@yahoo.com	129.666.6760	canada 	Calgary	Nov 13, 2022	2023-10-02	5	2674.32	TRUE	smb	crm_export_b.csv	 follow up in Q2 	
+CUST-1097	Mr Noah King	nking@outlook.com	07532603323	United Kingdom	Manchester	08/15/2025	31/02/2024	40	8062.71	Yes	SMB	crm_export_a.csv	wants weekend calls	
+CUST-1098	James Brown	jbrown@example.org	189-141-1739	U.S.	Miami	12/08/2024	Feb 24, 2025	34	5913.7	TRUE	retail	crm_export_a.csv		
+CUST-1099	Peter Brown	peterbrown59[at]yahoo.com	 012.045.5611 	canada 	 Edmonton 	09-Oct-2023	12/24/2023		6629.28	Y	Enterprise	legacy_contacts.csv	duplicate from legacy file	
+CUST-1100	Robert Roberts	robert_roberts@yahoo.com	+1-797-296-5902	Canada	EDMONTON	 10/09/2025 	N/A	47	5520.46	Inactive	retail	web_form.xlsx	prefers email	
+CUST-1101	Ethan Scott	ethan.scott@example.org	+442877217535	United Kingdom	Leeds	2023-09-14	Mar 09, 2024	63	5753.37	Yes	Corp	crm_export_a.csv	 wants weekend calls 	
+CUST-1102	  Sophia Jones 	sophia_jones@yahoo.com	5037589975 ext 2	U.S.	 New York 	08/19/2025	10/04/2025		$8,187.51	Y	premium	crm_export_a.csv	wants weekend calls	
+CUST-1103	David Evans	david_evans@gmail.com	449827080869	Gb	Sheffield	18/03/2022	Nov 07, 2022	33	6096.95	1	retail	web_form.xlsx	left voicemail	
+CUST-1104	Chris Johnson	cjohnson@outlookcom	9452288515	America	Austin	Oct 10, 2021	09-May-2022	59		N	Retail	crm_export_a.csv	WANTS WEEKEND CALLS	
+CUST-1105	Sarah Johnson	sjohnson@company.co.uk	 (863) 840-6665 	United States	Austin	09/16/2025	Oct 17, 2025	65	6670.27	Y	smb	legacy_contacts.csv	REQUESTED INVOICE	
+cust 1106	Grace Taylor	GRACETAYLOR75@YAHOO.COM	07202-590947	 united kingdom 	birmingham	14/02/2025	Nov 04, 2025	28	3215.53	TRUE	Small Business	crm_export_b.csv	VIP prospect	
+CUST-1107	CHRIS WRIGHT	cwright@company.co.uk	05616-484085	Gb	cardiff	Dec 23, 2023	2024-08-22	56	7004	No	Retail	crm_export_b.csv	requested invoice	
+CUST-1108	David Hall	david_hall@yahoo.com	+1-011-024-8193	canada 	VANCOUVER	2024-01-07	not sure	65	7470.24	No	smb	march_upload.csv	 called twice 	
+CUST-1109	Grace Johnson	gjohnson@example.org	 (842) 450-8821 	US	 Boston 	04/17/2025	N/A	49	$3,251.29	N	retail	march_upload.csv	VIP prospect	
+CUST-1110	David Brown	dbrown@outlook.com	+44 7552 314913	Gb	Cardiff	Oct 12, 2025	11/08/2025	unknown	3928.84	Y	consumer	web_form.xlsx	called twice	
+CUST-1111	Michael Walker	mwalker[at]outlook.com	110.809.9693	CA	Calgary	02/07/2023	01/01/2024	40	4146.95	Y	Small business	march_upload.csv	called twice	
+CUST-1112	James Wright	jwright@yahoo.com	(750) 373-1453	United States	Seattle	03-Oct-2025		60	5820.11	Inactive	 RETAIL 	web_form.xlsx	VIP prospect	
+CUST-1113	william davies	williamdavies52@example.org	05779082723	uk	Sheffield	2023-01-19	15-Nov-2023	62	7636.45	1	consumer	crm_export_b.csv	follow up in Q2	
+CUST-1114	liam hall	lhall[at]yahoo.com	02869-904137	United Kingdom	London	Sep 19, 2021	09/07/2022	58	$1,382.18	Active	 RETAIL 	legacy_contacts.csv	left voicemail	
+CUST-1115	Peter Thomas	pthomas@example.org	09908-811729	Gb	Birmingham	11-Aug-2021	2021-08-19	33	4450.21	0	Small business	web_form.xlsx	VIP prospect	
+CUST-1116	Chloe King	CKING@COMPANY.CO.UK	+44 0981 806356 ext 2	U.K.	Birmingham	06-Jun-2022	Feb 05, 2023	35	7737.07	1	Small business	crm_export_b.csv	wants weekend calls	
+CUST-1117	AVA ADAMS	 aadams@yahoo.com 	08658 902601	U.K.	liverpool	2024-03-29	21-Sep-2024	66	3393.13	TRUE	Enterprise	crm_export_b.csv	called twice	
+CUST-1118	Robert Smith	robert.smith@yahoo.com	 00214-656693 	 united kingdom 	edinburgh	Aug 09, 2022	11/16/2022	23	6,667	Y	Small business	legacy_contacts.csv	left voicemail	
+CUST-1119	Daniel Davies	danieldavies74@example.org	06973577907	uk	Manchester	19/02/2024	27-Mar-2024	53		FALSE	enterprise	web_form.xlsx		
+CUST-1120	Grace Walker	gwalker@companyco.uk	03433339521	 united kingdom 	BIRMINGHAM	Sep 03, 2023	10-Feb-2024	43	1869.53	yes	 RETAIL 	legacy_contacts.csv	FOLLOW UP IN Q2	
+CUST-1121	noah roberts	nroberts@outlook.com	+44 1875 003691	U.K.	cardiff	20-Sep-2021	10/17/2021	54	6,797	Active	smb	web_form.xlsx	wants weekend calls	
+CUST-1122	Daniel Turner	 dturner@company.co.uk 	442702672885	United Kingdom	BIRMINGHAM	2024-13-05	11-Mar-2025		6923.41	TRUE	ENT	web_form.xlsx	wants weekend calls	
+CUST-1123	Daniel Wright	danielwright37@yahoo.com	+44 8771 694722	UK	MANCHESTER	12/21/2022	03/09/2024	64	8187.04	1	smb	legacy_contacts.csv	wants weekend calls	
+CUST-1124	Olivia King	oking@gmail.com	+1 117 800 6811	United States	 Miami 	28/04/2023	22-Jul-2023		7262.99	Yes	Retail	web_form.xlsx	duplicate from legacy file	
+CUST-1125	CHRIS ADAMS	chris_adams@example.org	8457831745	usa	 Dallas 	12-Jul-2022	18-Apr-2023	49		0	smb	march_upload.csv	left voicemail	
+CUST-1126	John Baker	JOHNBAKER29@COMPANY.CO.UK	03894 484631	United Kingdom	sheffield	Dec 12, 2025				yes	Enterprise	crm_export_b.csv	missing postcode	
+CUST-1127	Emma Roberts	emmaroberts64@outlook.com	00512 046187	UK	GLASGOW	29/01/2025	02-Feb-2025	35	780	Active	Retail	march_upload.csv	missing postcode	
+CUST-1128	David Adams	davidadams62 @outlook.com	00313650249	 united kingdom 	Liverpool	24-Oct-2022	13/01/2023		$6,194.09	No	smb	crm_export_a.csv		
+CUST-1129	Liam Wilson	LWILSON@COMPANY.CO.UK	6524077848	U.S.	Chicago	Sep 15, 2021	May 22, 2022	35	2702.54	TRUE	smb	legacy_contacts.csv		
+cust 1130	Liam Campbell	lcampbell@example.org	07829-456511	uk	Birmingham	14/12/2025	23/12/2025	60	7285.2	Inactive	consumer	march_upload.csv	called twice	
+CUST-1131	William Roberts	william.roberts@company.co.uk	06509 480141	 united kingdom 	Leeds	25/05/2024	27/05/2025	25	126.04	no	Small business	crm_export_a.csv	called twice	
+CUST-1132	William Wright	william_wright@example.org	585-566-5939	U.S.	Atlanta	14-Dec-2025	2026-02-05	31	6739.04	yes	Small Business	web_form.xlsx		
+CUST-1133	  Laura Evans 	LAURA.EVANS@EXAMPLE.ORG	522.459.3344	Canada	Toronto	30-Apr-2025	N/A	65	6992.53	No	smb	crm_export_a.csv	left voicemail	
+CUST-1134	William Green	william.green@yahoo.com	06048-058925	United Kingdom	London	Apr 28, 2025	2025-10-16	121	7480.04	Y	Priority	crm_export_a.csv	called twice	
+CUST-1135	chloe jones	chloe_jones@example.org	+1 938 983 3146	United States	Boston	06/24/2021	01/14/2022		3701.66	TRUE	Corp	march_upload.csv	  	
+CUST-1136	Mary Thomas	mary.thomas@yahoo.com	01477-053833	Gb	Bristol	2021-11-16	31/02/2024		7,251	Active	 RETAIL 	crm_export_a.csv	left voicemail	
+CUST-1137	John  Taylor	john.taylor@yahoo.com	07981238780	United Kingdom	Liverpool	2024-09-19	11/29/2025	63	3071.46	yes	 RETAIL 	crm_export_a.csv	missing postcode	
+CUST-1138	James Smith	jsmith@example.org	+61 9 2649 5782	AU	Brisbane	04/07/2022	Jun 23, 2022	42	7627.53	Y	retail	web_form.xlsx		
+cust 1139	AVA BROWN	 abrown@outlook.com 	02099 499939	United Kingdom	BIRMINGHAM	Jan 29, 2025	02/13/2025	41	7482.92	Y	retail	crm_export_b.csv		
+CUST-1140	John Roberts	johnroberts63@example.org	3660 965 69	Australia	Melbourne	01-Mar-2025	2026-02-07	5	6444.73	Active	VIP	march_upload.csv		
+CUST-1141	Liam Jones	ljones@example.org	+44 7181 298266	Gb	Glasgow	27-Mar-2023	06/21/2024	40	6579.65	Active	Retail	crm_export_a.csv	 duplicate from legacy file 	
+cust 1142	Robert Wright	rwright @yahoo.com	02206 447421	UK	Sheffield	28-Jan-2025		53	5208.44	Y	Small business	legacy_contacts.csv	prefers email	
+CUST-1143	Peter  Scott	peter.scott@yahoo.com	0209945101	America	Seattle	Dec 12, 2025	N/A	unknown	5273.71	yes	ENT	crm_export_a.csv		
+CUST-1144	Emma Walker	emma_walker@outlook.com	443901981794	 united kingdom 	 Sheffield 	07/08/2025	10-Sep-2025	48	7170.48	Y	Small Business	web_form.xlsx	called twice	
+CUST-1145	John Brown	JBROWN@OUTLOOK.COM	03441448850	 united kingdom 	Manchester	19/02/2025		34	6799.3	0	Retail	crm_export_b.csv	requested invoice	
+CUST-1146	Liam Turner	liamturner@outlook.com	+61 5 5124 0568	australia 	Adelaide	11/18/2022	07/12/2023	47	USD 7887.30	1	smb	crm_export_b.csv	left voicemail	
+CUST-1147	SARAH BROWN	sarahbrown25@yahoo.com	448452182307	UK	London	May 12, 2025	08/23/2025		3780.42	Active	smb	crm_export_a.csv	wants weekend calls	
+CUST-1148	Emma Evans	EMMA.EVANS@YAHOO.COM	09881 385854	uk	LEEDS	Aug 10, 2022	Dec 29, 2022		2722.99	Active	Retail	crm_export_a.csv	VIP prospect	
+CUST-1149	peter hall	peter_hall@example.org	01717-477332	Gb	 Cardiff 	04/28/2024	31/02/2024	65	5949.12	Y	 RETAIL 	web_form.xlsx	follow up in Q2	
+CUST-1150	Michael Campbell	mcampbell@company.co.uk	07615-396695	Gb	Manchester	Oct 30, 2022	2023-08-10	62	616.79	1	Small Business	web_form.xlsx	left voicemail	
+CUST-1151	Peter Scott	peter.scott@yahoo.com	+44 2784 699733	United Kingdom	Cardiff	04/29/2025	N/A		2793.06	1	retail	web_form.xlsx		
+CUST-1152	Ava Jones	avajones81@company.co.uk	446668327238	U.K.	Edinburgh	08/08/2025	2026-02-07	unknown	7322.69	Inactive	consumer	crm_export_b.csv		
+cust 1153	Liam Hall	lhall @company.co.uk	 +1-909-738-4689 	canada 	EDMONTON	22-May-2024	2025-09-10	48	5303.26	TRUE	Small business	march_upload.csv		
+CUST-1154	ISLA TAYLOR	isla_taylor@example.org	+44 7956 544209	United Kingdom	Manchester	2024-13-05	 Sep 21, 2025 	55	$6,786.86	Yes	 RETAIL 	web_form.xlsx	 requested invoice 	
+CUST-1155	Daniel Roberts	danielroberts23@outlook.com	+1-372-805-1292	CAN	toronto	2024-13-05	2024-13-05	59	1496.6	Active	retail	legacy_contacts.csv		
+CUST-1156	James Adams	JAMES.ADAMS@EXAMPLE.ORG	08569-454414	Gb	Edinburgh	18/11/2025	N/A	21	$2,465.40	no	Retail	crm_export_a.csv	requested invoice	
+CUST-1157	John Hall	john.hall@example.org	03911192692	UK	Manchester	11/04/2024	06/20/2025	43	(1876.75)	Yes	consumer	legacy_contacts.csv	prefers email	
+CUST-1158	Mary Roberts	mroberts@company.co.uk	+61 6 3917 4101	AUS	BRISBANE	2021-12-31	13-Aug-2022	25	4187.26	no	SMB	march_upload.csv	VIP prospect	
+cust 1159	Ms Mia Adams	miaadams69@example.org	04601 585174	U.K.	Manchester	2024-01-12	05/06/2024	21	3276.84	Y	enterprise	crm_export_a.csv	CALLED TWICE	
+CUST-1160	Chloe King	CHLOEKING5@GMAIL.COM	 00613878293 	United Kingdom	Sheffield	not sure	 19/06/2022 	55	5474.31	Yes	premium	march_upload.csv		
+CUST-1161	william taylor	william_taylor@outlook.com	982.530.9251	canada 	Toronto	22-Aug-2021	31/02/2024	59	6796	1	enterprise	crm_export_a.csv	missing postcode	
+CUST-1162	Peter Smith	psmith@yahoo.com	08763-290927	U.K.	Manchester	Dec 18, 2024	2025-11-16	58	7540.47	yes	enterprise	legacy_contacts.csv		
+CUST-1163	Grace Evans	GRACE.EVANS@YAHOO.COM	05436459701	United Kingdom	Leeds	2021-08-19	30-Sep-2022	30	5,829	Inactive	smb	crm_export_b.csv	VIP prospect	
+CUST-1164	CHRIS THOMAS	cthomas@company.co.uk	+44 7265 273543	uk	SHEFFIELD	17-Nov-2025	27/02/2026	twenty nine	7578.23	Y	Small Business	march_upload.csv	prefers email	
+CUST-1165	Laura Taylor	laurataylor32@yahoo.com	03929060078	Gb	Edinburgh	29-Sep-2023	2024-12-13		5034.56	N	retail	web_form.xlsx	missing postcode	
+CUST-1166	Liam Taylor	ltaylor@company.co.uk	+44 6257 016580	 united kingdom 	Liverpool	28/11/2021	2022-11-23	50	7294.47	no	 RETAIL 	crm_export_a.csv	  	
+CUST-1167	Olivia Turner	oturner@yahoo.com	(793)355-4864	 united states 	Denver	21-Jan-2023	Apr 20, 2023	62	4756.34	Active	Enterprise	crm_export_b.csv	follow up in Q2	
+CUST-1168	Robert Taylor		08275670431	Gb	 Birmingham 	Aug 14, 2022	12/17/2023	25	942.96	yes	Small business	legacy_contacts.csv		
+CUST-1169	Ms Michael Johnson	mjohnson@outlook.com	+44 2842 222310	 united kingdom 	Liverpool	04/10/2022	13/12/2022	44	$8,251.59	FALSE	Retail	crm_export_a.csv	requested invoice	
+CUST-1170	Mia Wilson	mwilson@outlook.com	+61 7 5170 2814	Australia	 Brisbane 	Nov 16, 2021	Nov 18, 2021	55	8292.97	Y	Enterprise	crm_export_a.csv		
+CUST-1171	Robert Taylor	robert_taylor@company.co.uk	+61 5 0455 4781	AUS	perth	03-Feb-2022	12-Oct-2022	41	N/A	Y	 RETAIL 	legacy_contacts.csv	requested invoice	
+CUST-1172	noah walker	nwalker @example.org	446487049478	U.K.	Cardiff	29-Mar-2025	10/07/2025	26	71.16	Y	Retail	crm_export_a.csv	VIP prospect	
+CUST-1173	Mia Taylor	mia.taylor@outlook.com	+1 290 257 2520	US	denver	Apr 05, 2024	2024-12-07	57	3,715	Yes	Small Business	march_upload.csv	called twice	
+CUST-1174	Chris Johnson	chris_johnson@outlook.com	02132-833898	United Kingdom	Bristol	2021-07-16	15/04/2022	58	2998.58	TRUE	retail	legacy_contacts.csv	duplicate from legacy file	
+CUST-1175	ISLA CAMPBELL	icampbell@yahoocom	161.107.6031	Canada	Montreal	not sure	2022-12-17	40	259.02	N	retail	crm_export_b.csv	VIP prospect	
+CUST-1176	John Taylor	JOHN.TAYLOR@EXAMPLE.ORG	09083 342801	Gb	Liverpool	02-Apr-2024	2024-09-27	43	1377.33	Y	enterprise	legacy_contacts.csv	 follow up in Q2 	
+CUST-1177	CHRIS BROWN		9473864631	America	Dallas	2021-10-06	Jun 16, 2022		$5,994.64	1	Retail	crm_export_b.csv		
+CUST-1178	david walker	david_walker@example.org	449678427114	UK	Sheffield	2021-09-09	2022-01-06	48	6168.33	Y	ENT	march_upload.csv	left voicemail	
+CUST-1179	Peter Campbell	peter.campbell@example.org	1675677002	CAN	Calgary	18/02/2022	18-Jul-2022		4239.67	Active	Small business	legacy_contacts.csv	wants weekend calls	
+CUST-1180	  Sarah Campbell 	 sarah.campbell@gmail.com 	445590561655	Gb	 Liverpool 	2023-10-11	2024-08-08		$5,249.73	yes	Priority	crm_export_a.csv	requested invoice	
+CUST 1109	Grace Johnson	gjohnson@example.org	 (842)4508821 	US	 Boston 	04/17/2025	N/A	49	$3,251.29	N	retail	march_upload.csv	VIP prospect	
+CUST-1108	David Hall	DAVID_HALL@YAHOO.COM	+1-011-024-8193	canada 	VANCOUVER	2024-01-07	not sure	65	7470.24	No	smb	web_form.xlsx	 called twice 	
+CUST-1121	Noah Roberts	NROBERTS@OUTLOOK.COM	+44 1875 003691	U.K.	cardiff	20-Sep-2021	10/17/2021	54	6,797	Active	smb	march_upload.csv	wants weekend calls	
+CUST 1082	Sarah Smith	sarah.smith@gmail.com	 +61323651994 	AUS	Perth	2024-02-13	03/02/2025	56		yes	Corp	legacy_contacts.csv	VIP prospect	
+CUST-1083	James Hall	JAMESHALL83@YAHOO.COM	08701 462638	United Kingdom	Leeds	01/19/2022	08-Jun-2022	38	3799.41	TRUE	Small Business	march_upload.csv	left voicemail	
+CUST-1126	John Baker		03894 484631	United Kingdom	sheffield	Dec 12, 2025				yes	Enterprise	crm_export_a.csv	missing postcode possible dup	
+CUST 1053	Noah Thomas	noah_thomas@example.org	 (773)4540193 	usa	New York	2021-07-25	21-Feb-2022	42	6101.78	TRUE	Enterprise	web_form.xlsx	prefers email	
+CUST-1171	Robert Taylor	ROBERT_TAYLOR@COMPANY.CO.UK	+61 5 0455 4781	AUS	perth	03-Feb-2022	12-Oct-2022	41	N/A	Y	 RETAIL 	web_form.xlsx	requested invoice	
+CUST-1077	Sophia Green		01463-031617	Gb	EDINBURGH	2024-01-07	2024-11-17	30	2369.31	Active	smb	web_form.xlsx	follow up in Q2 possible dup	
+CUST 1052	Laura Roberts		 +19866524041 	usa	seattle	Sep 02, 2022	Oct 01, 2023		5996.08	yes	Small Business	legacy_contacts.csv		
+CUST-1020	Anna Baker	ANNA_BAKER@OUTLOOK.COM	909.133.4123	CA	ottawa	05/05/2024	06/13/2025	60	1929.96	TRUE	Small Business	march_upload.csv	  	
+CUST-1068	Ava King	AVA_KING@OUTLOOK.COM	6112545738	United States	 Seattle 	not sure	 2024-01-09 	46	N/A	Y	Small Business	crm_export_a.csv	VIP PROSPECT	
+CUST-1147	SARAH BROWN		448452182307	UK	London	May 12, 2025	08/23/2025		3780.42	Active	smb	legacy_contacts.csv	wants weekend calls possible dup	
+CUST-1160	Chloe King		 00613878293 	United Kingdom	Sheffield	not sure	 19/06/2022 	55	5474.31	Yes	premium	crm_export_a.csv	 possible dup	
+CUST 1149	peter hall	peter_hall@example.org	 01717477332 	Gb	 Cardiff 	04/28/2024	31/02/2024	65	5949.12	Y	 RETAIL 	crm_export_a.csv	follow up in Q2	
+CUST 1070	Grace  Johnson	grace_johnson@yahoo.com	 +61296627828 	AUS	Adelaide	06/23/2021	02-Jun-2022	29	2672.38	yes	consumer	crm_export_a.csv	requested invoice	
+CUST 1136	Mary Thomas	mary.thomas@yahoo.com	 01477053833 	Gb	Bristol	2021-11-16	31/02/2024		7,251	Active	 RETAIL 	legacy_contacts.csv	left voicemail	
+CUST 1089	OLIVIA DAVIES	oliviadavies86@gmail.com	 06938068687 	Gb	LIVERPOOL	Jun 20, 2023	Feb 13, 2024	37	$1,934.67	1	retail	crm_export_a.csv	called twice	
+CUST-1078	Chloe Roberts		8507925241	Canada	TORONTO	2025-04-29		22	2857.57	Y	SMB	march_upload.csv	duplicate from legacy file possible dup	
+CUST-1111	Michael Walker	MWALKER[AT]OUTLOOK.COM	110.809.9693	CA	Calgary	02/07/2023	01/01/2024	40	4146.95	Y	Small business	march_upload.csv	called twice	
+														
